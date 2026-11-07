@@ -12,4 +12,4 @@
 - [x] **Task 3.5:** Configure `frontend/package.json` and Vite bundler settings.
 - [x] **Task 3.6:** Set up root monorepo scripts in `package.json` to run frontend and backend.
 - [x] **Task 3.7:** Create an API client service in `frontend/src/services/api.js` pointing to the backend base URL.
-- [x] **Task 3.8:** Verify communication between React frontend, Express server, and MongoDB database.
+- [ ] **Task 3.8:** Verify communication between React frontend, Express server, and MongoDB database.

@@ -10,6 +10,6 @@
 
 ### Week 4: Frontend Scaffolding & Responsive Templates
 - [x] **Task 2.5:** Scaffold frontend directory structure in `frontend/src/` (`components/`, `layouts/`, `pages/`, `services/`).
-- [x] **Task 2.6:** Integrate Bootstrap and write base CSS3 rules for custom buttons, cards, and modal dialogs.
-- [x] **Task 2.7:** Implement the navigation bar and sidebar with role-aware menu options.
-- [x] **Task 2.8:** Implement CSS `@media print` rules for clean, receipt-sized invoice generation.
+- [ ] **Task 2.6:** Integrate Bootstrap and write base CSS3 rules for custom buttons, cards, and modal dialogs.
+- [ ] **Task 2.7:** Implement the navigation bar and sidebar with role-aware menu options.
+- [ ] **Task 2.8:** Implement CSS `@media print` rules for clean, receipt-sized invoice generation.
